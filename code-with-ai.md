@@ -10,4 +10,4 @@ Think it as of a senior level developer who can review your codes.
 - Use "DO NOT WRITE CODE" helps while discussing the project.
 - AI as prompt to prompt generator
   - Use chatGPT to generate prompt, give it your requirement allows to ask as much possible questions as possible then answer this and got a prompt for the code development
-  - 
+  - Use this prompt as a prompt to another models e.g., cluade etc. to generate codes.
